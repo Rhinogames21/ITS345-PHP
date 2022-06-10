@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Server>
+	<Port name="HTTP/1.1" protocol="HTTP">8236</Port>
+<PathMapping local="/PHP Class" module="PHP Class" remote="C:\Users\dontw\source\repos\ITS345-PHP\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\htdocs\PHP Class"/></Server>
